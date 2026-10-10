@@ -1,0 +1,5 @@
+﻿  zadatak1.c
+C:\Users\Nikola\source\repos\StrukturePodataka\StrukturePodataka\zadatak1.c(69,23): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Nikola\source\repos\StrukturePodataka\StrukturePodataka\zadatak1.c(78,19): warning C4090: 'function': different 'const' qualifiers
+C:\Users\Nikola\source\repos\StrukturePodataka\StrukturePodataka\zadatak1.c(84,65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  StrukturePodataka.vcxproj -> C:\Users\Nikola\source\repos\StrukturePodataka\x64\Debug\StrukturePodataka.exe
