@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nikola\\Desktop\\Sve\\FAKS-FESB\\Ra\u010Dunarstvo\\StrukturePodataka\\StrukturePodataka\\Zadatak2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07321E31-4B57-481E-B1F0-583D27E8B726}|Zadatak2\\Zadatak2.vcxproj|C:\\Users\\Nikola\\Desktop\\Sve\\FAKS-FESB\\Ra\u010Dunarstvo\\StrukturePodataka\\StrukturePodataka\\Zadatak2\\Zadatak2\\Zadatak2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07321E31-4B57-481E-B1F0-583D27E8B726}|Zadatak2\\Zadatak2.vcxproj|solutionrelative:Zadatak2\\Zadatak2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadatak2.c",
+              "DocumentMoniker": "C:\\Users\\Nikola\\Desktop\\Sve\\FAKS-FESB\\Ra\u010Dunarstvo\\StrukturePodataka\\StrukturePodataka\\Zadatak2\\Zadatak2\\Zadatak2.c",
+              "RelativeDocumentMoniker": "Zadatak2\\Zadatak2.c",
+              "ToolTip": "C:\\Users\\Nikola\\Desktop\\Sve\\FAKS-FESB\\Ra\u010Dunarstvo\\StrukturePodataka\\StrukturePodataka\\Zadatak2\\Zadatak2\\Zadatak2.c",
+              "RelativeToolTip": "Zadatak2\\Zadatak2.c",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAtwHEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-10-19T19:35:12.25Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
